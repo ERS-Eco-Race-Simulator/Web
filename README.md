@@ -6,9 +6,10 @@
 
 ### hostcam
 
-Simple webcam streaming over lan
+Simple web-cam streaming over LAN
 
 ```bash
+pip3 install -U -r hostcam/requirements.txt
 python3 hostcam/hostcam.py [camera]
 ```
 
